@@ -17,6 +17,6 @@ Este repositorio contiene una implementación en Rust de un escáner de puertos 
 ![image](https://github.com/Luna-AGL/analisis-de-puertos/assets/154281786/1a8e4a06-01e9-4380-94f8-57d4d2e52a93)
 
 
-# Contribuciones:
+## Contribuciones:
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias para mejorar el rendimiento, la seguridad o la usabilidad de este escáner de puertos, no dudes en abrir un problema o enviar una solicitud de extracción. Juntos podemos hacer que esta herramienta sea aún más útil y robusta.
