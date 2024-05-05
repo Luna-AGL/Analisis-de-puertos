@@ -1,4 +1,4 @@
-[!NOTE] 
+[!NOTES] 
 Приложение для анализа портов от 0 до 1023.
 Aplicacion para el analisis de puertos de 0 a 1023.
 
